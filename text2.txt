@@ -3,3 +3,5 @@ hello form bit !!
 check ssh
 
 edited on bitbucket
+
+Hei..The pipelie works with merge option !!!!
